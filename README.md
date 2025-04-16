@@ -1,13 +1,11 @@
 # ClickHouse Integration Tool
 
-A full-stack data integration utility to ingest, join, and export data between CSV files and ClickHouse.  
-Built as part of the **Zeotap Software Engineer Intern Assignment**.
+A full-stack data integration utility to ingest and export data between CSV files and ClickHouse.
 
 ## ✨ Features
 
 - 📤 **CSV → ClickHouse**: Upload CSV files, map columns, and insert data into ClickHouse tables
-- 🔗 **Multi-Table JOINs**: Select multiple tables and define JOIN keys/conditions from the UI
-- 📥 **ClickHouse → CSV**: Export table data or JOIN results into downloadable CSV files
+- 📥 **ClickHouse → CSV**: Export table data   into downloadable CSV files
 - ⚙️ **Dynamic Configuration**: Enter ClickHouse credentials, define column types, and preview mappings
 - 📊 **Live Feedback**: View ingestion success/failure messages, backend logs, and export status
 
