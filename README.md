@@ -34,7 +34,7 @@ Built as part of the **Zeotap Software Engineer Intern Assignment**.
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Shailendra-Niranjan/clickhouse-ingestion-tool.git
-   cd clickhouse-ingestion-tool/backend
+   cd clickhouse-ingestion-tool/Backend
    ```
 
 2. **Build and run the backend**
